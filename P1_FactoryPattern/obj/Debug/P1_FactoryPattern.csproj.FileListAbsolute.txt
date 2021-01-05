@@ -1,0 +1,7 @@
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\bin\Debug\P1_FactoryPattern.exe.config
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\bin\Debug\P1_FactoryPattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\bin\Debug\P1_FactoryPattern.pdb
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\obj\Debug\P1_FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\obj\Debug\P1_FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\obj\Debug\P1_FactoryPattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P1_FactoryPattern\obj\Debug\P1_FactoryPattern.pdb
