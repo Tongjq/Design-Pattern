@@ -10,6 +10,7 @@ namespace P1_FactoryPattern
     {
         static void Main(string[] args)
         {
+            ///简单工厂模式
             Operation operation;
             operation = OperationFactory.CreateOperate("+");
             operation.NumberA = 2;
