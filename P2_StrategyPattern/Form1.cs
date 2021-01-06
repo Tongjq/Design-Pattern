@@ -48,7 +48,7 @@ namespace StrategyPattern
             /*  CashSuper csuper = CashFactory.CreateCashAccept(cbxType.SelectedItem.ToString());
               totalPrices = csuper.acceptCash(Convert.ToDouble(txtPrice.Text) * Convert.ToDouble(txtNumber.Text));*/
 
-            /// 使用策略模式
+            /// 使用策略模式  这里只使用了CashContext一个类， 而简单工厂模式使用了两个类
             CashContext cc = new CashContext((cbxType.SelectedItem.ToString()));
            
             totalPrices= cc.GetResult(Convert.ToDouble(txtPrice.Text) * Convert.ToDouble(txtNumber.Text));
