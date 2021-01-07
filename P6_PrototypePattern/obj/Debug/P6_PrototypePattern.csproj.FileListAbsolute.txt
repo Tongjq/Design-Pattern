@@ -1,0 +1,7 @@
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\bin\Debug\P6_PrototypePattern.exe.config
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\bin\Debug\P6_PrototypePattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\bin\Debug\P6_PrototypePattern.pdb
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\obj\Debug\P6_PrototypePattern.csprojAssemblyReference.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\obj\Debug\P6_PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\obj\Debug\P6_PrototypePattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P6_PrototypePattern\obj\Debug\P6_PrototypePattern.pdb
