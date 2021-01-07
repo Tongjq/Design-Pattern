@@ -1,0 +1,7 @@
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\bin\Debug\P8_FacadePattern.exe.config
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\bin\Debug\P8_FacadePattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\bin\Debug\P8_FacadePattern.pdb
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\obj\Debug\P8_FacadePattern.csprojAssemblyReference.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\obj\Debug\P8_FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\obj\Debug\P8_FacadePattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P8_FacadePattern\obj\Debug\P8_FacadePattern.pdb
