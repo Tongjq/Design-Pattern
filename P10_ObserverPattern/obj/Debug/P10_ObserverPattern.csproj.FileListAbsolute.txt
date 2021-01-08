@@ -1,0 +1,6 @@
+C:\Users\Junqiang\source\repos\Design-Pattern\P10_ObserverPattern\bin\Debug\P10_ObserverPattern.exe.config
+C:\Users\Junqiang\source\repos\Design-Pattern\P10_ObserverPattern\bin\Debug\P10_ObserverPattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P10_ObserverPattern\bin\Debug\P10_ObserverPattern.pdb
+C:\Users\Junqiang\source\repos\Design-Pattern\P10_ObserverPattern\obj\Debug\P10_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P10_ObserverPattern\obj\Debug\P10_ObserverPattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P10_ObserverPattern\obj\Debug\P10_ObserverPattern.pdb
