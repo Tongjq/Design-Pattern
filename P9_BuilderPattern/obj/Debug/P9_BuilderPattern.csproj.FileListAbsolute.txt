@@ -1,0 +1,10 @@
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\bin\Debug\P9_BuilderPattern.exe.config
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\bin\Debug\P9_BuilderPattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\bin\Debug\P9_BuilderPattern.pdb
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.csprojAssemblyReference.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.Form1.resources
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.Properties.Resources.resources
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.csproj.GenerateResource.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.exe
+C:\Users\Junqiang\source\repos\Design-Pattern\P9_BuilderPattern\obj\Debug\P9_BuilderPattern.pdb
